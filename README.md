@@ -25,15 +25,15 @@ As a whole, all lots are meeting the suspension coil PSI variance with a 62.29 o
 
 
 # T-Tests
-##All Lots
+### All Lots
 ![image](https://user-images.githubusercontent.com/107438816/194438720-54677e36-b6c5-406b-9a6f-6285dac37cf6.png)
 
-## Lot 3
+### Lot 3
 ![image](https://user-images.githubusercontent.com/107438816/194438608-89f75e70-b296-46e4-9bb2-09a46910a2e8.png)
 
-## Lot 2
+### Lot 2
 ![image](https://user-images.githubusercontent.com/107438816/194438639-ee1d2eb0-5821-42e9-9d1a-92c911815ef5.png)
 
-## Lot 1
+### Lot 1
 ![image](https://user-images.githubusercontent.com/107438816/194438666-97262fbf-983f-43ca-8820-ab609066bc35.png)
 
