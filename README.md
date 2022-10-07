@@ -42,3 +42,5 @@ As a whole, all lots are meeting the suspension coil PSI variance with a 62.29 o
 ### Lot 1
 ![image](https://user-images.githubusercontent.com/107438816/194438666-97262fbf-983f-43ca-8820-ab609066bc35.png)
 
+## Study Design: MechaCar vs Competition
+
