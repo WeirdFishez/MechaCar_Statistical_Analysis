@@ -59,17 +59,10 @@ As a whole, all lots are meeting the suspension coil PSI variance with a 62.29 o
 
 ## Study Design: MechaCar vs Competition
 
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-In your description, address the following questions:
 
-What metric or metrics are you going to test?
-What is the null hypothesis or alternative hypothesis?
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
+My team recommends future data collection and analysis comparing MechaCar against outside competition. Safety is keystone of any car manufacturer, and duplicating the analysis of various vehicle attributes and their correlation with safety can help the design team identify what to look for.
 
-My team recommends future data collection and analysis comparing MechaCar against outside competition. Safety is the keystone of any car manufacturer, and duplicating the analysis of various vehicle attributes and their correlation with safety can help the design team identify what to look for.
-
-### Test Details: Linear Regression test to Predict vehicle collision casualty rates\
+### Test Details: Linear Regression test to Predict vehicle collision casualty rates, using data of vehicle collisions that occured over 60 mph and on-scene casualties.
 H0: The following safety features and their varying attributes have statistical impact on the survivability of a car crash over 60 mph; Airbag: Manufacturer, quantity; Tires: Material, type, size; Automatic Breaking System(ABS): Manufacturer, pad material.
 
 Ha: The following safety features and their varying attributes have statistical impact on the survivability of a car crash over 60 mph; Airbag: Manufacturer, quantity; Tires: Material, type, size; Automatic Breaking System(ABS): Manufacturer, pad material.
