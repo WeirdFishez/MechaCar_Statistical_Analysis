@@ -69,9 +69,9 @@ What data is needed to run the statistical test?
 
 My team recommends future data collection and analysis comparing MechaCar against outside competition. Safety is the keystone of any car manufacturer, and duplicating the analysis of various vehicle attributes and their correlation with safety can help the design team identify what to look for.
 
-### Test Details: Linear Regression test to Predict vehicle collision casualty rates
+### Test Details: Linear Regression test to Predict vehicle collision casualty rates\
+H0: The following safety features and their varying attributes have statistical impact on the survivability of a car crash over 60 mph; Airbag: Manufacturer, quantity; Tires: Material, type, size; Automatic Breaking System(ABS): Manufacturer, pad material.
 
-**H0: ** The following safety features and their varying attributes have statistical impact on the survivability of a car crash over 60 mph; Airbag: Manufacturer, quantity; Tires: Material, type, size; Automatic Breaking System(ABS): Manufacturer, pad material.
-**Ha: ** The following safety features and their varying attributes have statistical impact on the survivability of a car crash over 60 mph; Airbag: Manufacturer, quantity; Tires: Material, type, size; Automatic Breaking System(ABS): Manufacturer, pad material.
+Ha: The following safety features and their varying attributes have statistical impact on the survivability of a car crash over 60 mph; Airbag: Manufacturer, quantity; Tires: Material, type, size; Automatic Breaking System(ABS): Manufacturer, pad material.
 
 
