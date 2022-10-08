@@ -66,3 +66,12 @@ What metric or metrics are you going to test?
 What is the null hypothesis or alternative hypothesis?
 What statistical test would you use to test the hypothesis? And why?
 What data is needed to run the statistical test?
+
+My team recommends future data collection and analysis comparing MechaCar against outside competition. Safety is the keystone of any car manufacturer, and duplicating the analysis of various vehicle attributes and their correlation with safety can help the design team identify what to look for.
+
+### Test Details: Linear Regression test to Predict vehicle collision casualty rates
+
+H0: The following safety features and their varying attributes have statistical impact on the survivability of a car crash over 60 mph; Airbag: Manufacturer, quantity; Tires: Material, type, size; Automatic Breaking System(ABS): Manufacturer, pad material.
+Ha: The following safety features and their varying attributes have statistical impact on the survivability of a car crash over 60 mph; Airbag: Manufacturer, quantity; Tires: Material, type, size; Automatic Breaking System(ABS): Manufacturer, pad material.![image](https://user-images.githubusercontent.com/107438816/194680189-4a0d81bb-3336-4db6-b84d-dd4632990e9f.png)
+
+
