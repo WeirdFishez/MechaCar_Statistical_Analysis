@@ -71,7 +71,7 @@ My team recommends future data collection and analysis comparing MechaCar agains
 
 ### Test Details: Linear Regression test to Predict vehicle collision casualty rates
 
-**H0: **The following safety features and their varying attributes have statistical impact on the survivability of a car crash over 60 mph; Airbag: Manufacturer, quantity; Tires: Material, type, size; Automatic Breaking System(ABS): Manufacturer, pad material.
-**Ha: **The following safety features and their varying attributes have statistical impact on the survivability of a car crash over 60 mph; Airbag: Manufacturer, quantity; Tires: Material, type, size; Automatic Breaking System(ABS): Manufacturer, pad material.
+**H0: ** The following safety features and their varying attributes have statistical impact on the survivability of a car crash over 60 mph; Airbag: Manufacturer, quantity; Tires: Material, type, size; Automatic Breaking System(ABS): Manufacturer, pad material.
+**Ha: ** The following safety features and their varying attributes have statistical impact on the survivability of a car crash over 60 mph; Airbag: Manufacturer, quantity; Tires: Material, type, size; Automatic Breaking System(ABS): Manufacturer, pad material.
 
 
