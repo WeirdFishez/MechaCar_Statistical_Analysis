@@ -63,8 +63,13 @@ As a whole, all lots are meeting the suspension coil PSI variance with a 62.29 o
 My team recommends future data collection and analysis comparing MechaCar against outside competition. Safety is keystone of any car manufacturer, and duplicating the analysis of various vehicle attributes and their correlation with safety can help the design team identify what to look for.
 
 ### Test Details: Linear Regression test to Predict vehicle collision casualty rates, using data of vehicle collisions that occured over 60 mph and on-scene casualties.
-H0: The following safety features and their varying attributes have statistical impact on the survivability of a car crash over 60 mph; Airbag: Manufacturer, quantity; Tires: Material, type, size; Automatic Breaking System(ABS): Manufacturer, pad material.
+H0: The following safety features and their varying attributes have statistical impact on the survivability of a car crash over 60 mph;
+Airbag: Manufacturer, quantity
+Tires: Material, type, size
+Automatic Breaking System(ABS): Manufacturer, pad material
 
 Ha: The following safety features and their varying attributes have statistical impact on the survivability of a car crash over 60 mph; Airbag: Manufacturer, quantity; Tires: Material, type, size; Automatic Breaking System(ABS): Manufacturer, pad material.
-
+Airbag: Manufacturer, quantity
+Tires: Material, type, size
+Automatic Breaking System(ABS): Manufacturer, pad material
 
